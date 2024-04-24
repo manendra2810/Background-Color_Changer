@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.btn{
+    padding: 0.5rem;
+    background-color: black;
+    color: #fff;
+    border-radius: 0.5rem;
+    border: none;
+    cursor: pointer;
+}
+
